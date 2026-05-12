@@ -37,7 +37,7 @@ A Full Stack Developer<br/>
 
 ### 🔗 Portfolio
 <p align="center">
-  <a href="https://portfolio-saadaijaz.vercel.app/" target="_blank">
+  <a href="https://www.linkedin.com/in/huzaifa-ali-warsi-0913733a8">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
   </a>
 </p>
