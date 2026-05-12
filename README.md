@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#f5f5f5; padding: 25px; border-radius: 5px;">
 
 <h1>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,mui,nodejs,express,mongodb,firebase,supabase,git,typescript,socketio,cloudinary,postman&perline=12" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=0e75b6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B,+I'm+Huzifa+Warsi" alt="Typing SVG" />
 </h1>
 
 <h3 style="font-size:20px;">
