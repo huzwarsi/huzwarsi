@@ -1,31 +1,59 @@
-<!-- PREMIUM SNAKE CONTRIBUTION SECTION -->
+<div align="center" style="background-color:#f5f5f5; padding: 25px; border-radius: 5px;">
 
-<div align="center">
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Huzaifa+Warsi;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Contribution%20Snake&fontSize=35&fontColor=ffffff&color=0:0E75B6,100:00C6FF"/>
+<h3 style="font-size:20px;">
+A Full Stack Developer<br/>
+</h3>
 
-<br/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=saadaijazattari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-<br/><br/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifawarsi&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,mui,nodejs,express,mongodb,firebase,supabase,git,typescript,socketio,cloudinary,postman&perline=12" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-00B4D8?style=for-the-badge&logo=lucide&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-8B0000?style=for-the-badge&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" />
+</p>
 
-<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifawarsi&theme=github_dark" width="100%"/>
 
-<br/><br/>
+![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake.svg)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifawarsi&theme=github_dark" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifawarsi&theme=github_dark" width="49%"/>
+---
 
-<br/><br/>
+### 🔗 Portfolio
+<p align="center">
+  <a href="https://www.linkedin.com/in/huzaifa-ali-warsi-0913733a8">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
+  </a>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifawarsi&theme=github_dark" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huzaifawarsi&theme=github_dark&utcOffset=5" width="49%"/>
+---
 
-</div>
+### 👨‍💻 About Me
+
+- 🚀 **Full-Stack Developer** with a passion for building intelligent, data-driven web applications.
+- 🛠️ Recently engineered an **AI-powered Clinic Management Tool** to streamline healthcare workflows and patient data management.
+- ⚡ Currently diving deep into **Next.js** to master Server-Side Rendering (SSR) and building high-performance full-stack apps.
+- 🧠 Avid reader of **Tech Blogs**; I love staying updated with the latest trends in Web Architecture and AI integration.
+- 💡 Focus: Writing clean, scalable code and bridging the gap between **User Experience (UX)** and **Backend Logic**.
+- 💬 Ask me about: **React, AI Integration, or Frontend-to-Backend transitions.**
+- 📫 Let's connect! You can reach me at: [huzaifawarsi2006@gmail.com]
+
+
+</div> isma snake game ko or 10x pro kardo or designing or achi kardo profile ki animate hosakta hain logos 
