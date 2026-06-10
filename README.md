@@ -1,4 +1,5 @@
-<div align="center" style="background-color:#f5f5f5; padding: 25px; border-radius: 5px;">
+<div align="center" style="background-color:
+#f5f5f5; padding: 25px; border-radius: 5px;">
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Huzaifa+Warsi;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 </h1>
@@ -38,5 +39,3 @@ A Full Stack Developer<br/>
 - 💡 Focus: Writing clean, scalable code and bridging the gap between **User Experience (UX)** and **Backend Logic**.
 - 💬 Ask me about: **React, AI Integration, or Frontend-to-Backend transitions.**
 - 📫 Let's connect! You can reach me at: [huzaifawarsi2006@gmail.com]
-</div> isma snake game ko or 10x pro kardo or designing or achi kardo profile ki animate hosakta hain logos 
- ya meri github ki profile ki readme ha isa or axha 10x pro karo
