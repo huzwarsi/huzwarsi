@@ -27,9 +27,11 @@ A Full Stack Developer<br/>
 ![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake.svg)
 
 ---
-
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaijazattari..." />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaAliWarsi&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
