@@ -30,7 +30,7 @@ A Full Stack Developer<br/>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaijazattari&bg_color=ffffff&color=0E75B6&line=0E75B6&point=00D4FF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa Ali Warsi&bg_color=ffffff&color=0E75B6&line=0E75B6&point=00D4FF&area=true&hide_border=true" />
 
 ---
 
