@@ -29,8 +29,7 @@ A Full Stack Developer<br/>
 ---
 
 ### 📈 Contribution Graph
-
-<img src="https://ghchart.rshah.org/0E75B6/HuzaifaAliWarsi" alt="Huzaifa's Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaijazattari..." />
 
 ---
 
