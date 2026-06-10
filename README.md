@@ -29,9 +29,8 @@ A Full Stack Developer<br/>
 ---
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaAliWarsi&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaijazattari..." />
 
 ---
 
