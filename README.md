@@ -6,7 +6,7 @@
 A Full Stack Developer<br/>
 </h3>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=saadaijazattari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HuzaifaAliWarsi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ A Full Stack Developer<br/>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaAliWarsi&bg_color=ffffff&color=0E75B6&line=0E75B6&point=00D4FF&area=true&hide_border=true" />
+<img src="https://ghchart.rshah.org/0E75B6/HuzaifaAliWarsi" alt="Huzaifa's Contribution Graph" />
 
 ---
 
