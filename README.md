@@ -28,13 +28,6 @@ A Full Stack Developer<br/>
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuzaifaAliWarsi&theme=github_dark" />
-</p>
----
-
 ### 🔗 Portfolio
 <p align="center">
   <a href="https://www.linkedin.com/in/huzaifa-ali-warsi-0913733a8">
