@@ -9,7 +9,7 @@ A Full Stack Developer<br/>
   <img src="https://komarev.com/ghpvc/?username=HuzaifaAliWarsi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,mui,nodejs,express,mongodb,firebase,supabase,git,typescript,socketio,cloudinary,postman&perline=12" />
@@ -26,7 +26,7 @@ A Full Stack Developer<br/>
 
 ![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake.svg)
 
----
+
 
 ### 🔗 Portfolio
 <p align="center">
